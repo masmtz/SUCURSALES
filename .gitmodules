@@ -1,0 +1,4 @@
+[submodule "prodigia_sucursales"]
+	path = prodigia_sucursales
+	url = git@github.com:mailynC/prodigia_sucursales.git
+	branch = 12.0
